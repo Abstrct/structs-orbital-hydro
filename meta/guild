@@ -1,0 +1,18 @@
+{
+  "guild": {
+    "id": "",
+    "name": "",
+    "description": "",
+    "tag": "",
+    "logo": "",
+    "website": "",
+    "socials": {
+      "facebook": "",
+      "farcaster": "",
+      "instagram": "",
+      "twitch": "",
+      "x": "",
+      "youtube": ""
+    }
+  }
+}
