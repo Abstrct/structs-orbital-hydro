@@ -1,11 +1,11 @@
 {
   "guild": {
-    "id": "",
-    "name": "",
-    "description": "",
-    "tag": "",
+    "id": "0-2",
+    "name": "Orbital Hydro",
+    "description": "A beacon of innovation in sustainable energy, we pride ourself on unparalleled efficiency in our unwavering commitment to environmental stewardship and the destruction of our enemies.",
+    "tag": "OH",
     "logo": "",
-    "website": "",
+    "website": "https://oh.energy",
     "socials": {
       "facebook": "",
       "farcaster": "",
